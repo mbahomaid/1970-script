@@ -28,7 +28,7 @@ The script firstly creates a directory with the name of the wanted year - `line 
 
 The script then initializes the directory as a git repository, using `git init` - `line 12` `git init`
 
-The script then stages all the files `git add .` and commits it, using the date `{YEAR}-01-01T18:00:00` (`line 16`) or `6pm, 1st January, 1990` (default of the `YEAR` variable)
+The script then stages all the files `git add .` and commits it, using the date `{YEAR}-01-01T18:00:00` (`line 16`) or `6pm, 1st January, 1970` (default of the `YEAR` variable)
 
 This is the `ISO Date-Time format` for storing time: `YYYY-MM-DDTHH:MM:SS`.
 
