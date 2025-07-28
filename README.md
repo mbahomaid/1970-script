@@ -1,4 +1,4 @@
-# 1990
+# 1970
 
 Make your GitHub history back to 1970.
 
