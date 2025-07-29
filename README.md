@@ -3,7 +3,7 @@
 Make your GitHub history back to 1970.
 
 <img width="1883" height="872" alt="image" src="https://github.com/user-attachments/assets/eff104ab-c724-4430-a7e0-27ae9dbd7d80" />
-<img width="1894" height="869" alt="image" src="https://github.com/user-attachments/assets/f9497b38-48fe-44b0-8ffd-eee208e42ebc" />
+<img width="1128" height="380" alt="image" src="https://github.com/user-attachments/assets/2fa65422-231b-428a-943f-87fc4d0345ab" />
 
 
 ## Travel Back
